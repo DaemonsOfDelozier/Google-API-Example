@@ -3,8 +3,8 @@ Just an example of the API
 
 # Google-API-Example -> Desktop -> RoutesperMile
 
-#run application
+# run application
 'python app.py'
 
-#visit
+# visit
 'http://0.0.0.0:8003/'
